@@ -91,10 +91,11 @@ h1 {
   width: 20px;
   height: 20px;
   color: #facc15;
+  fill: currentColor;
 }
 
 .testimonial-star-empty {
-  color: #e2e8f0;
+  color: #0f172a;
 }
 
 .testimonial-content {
